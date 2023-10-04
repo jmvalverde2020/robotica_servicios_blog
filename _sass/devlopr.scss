@@ -111,18 +111,18 @@ ol, ul {
 
 /* Progress bar */
 .progressline .bar {
-    background: #f69801;
+    background: #f61e01;
 }
 
 /* On scroll progress bar */
 #progress-bar {
     background: linear-gradient(to right, #f69801 var(--progress), transparent 0);
-    height: 5px;
+    height: 2px;
     position: fixed;
     width: 100%;
     overflow: hidden;
     z-index: 1;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 
 body {
