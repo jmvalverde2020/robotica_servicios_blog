@@ -14,4 +14,7 @@ layout: full-width
     <div class="col-lg-8 offset-md-2">
       {%- include recent_articles.html -%}
     </div>
-    {%- include author.html -%}
+    {% assign author = site.author %}
+      {% if author %}
+      {% include author.html %}
+    {% endif %}
