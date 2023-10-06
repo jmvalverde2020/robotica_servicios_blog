@@ -37,10 +37,7 @@
     {{ content }}
     <br />
     <!-- Author box -->
-    {% assign author = site.data.authors[page.author] %}
-      {% if author %}
       {% include author.html %}
-    {% endif %}
   </div>
   {%- if site.hyvor_talk_website_id -%}
   <div class="comments">
