@@ -14,12 +14,4 @@ layout: full-width
     <div class="col-lg-8 offset-md-2">
       {%- include recent_articles.html -%}
     </div>
-    <div class="row">
-      <div class="col-md-4">
-        <div class="card">
-          <div class="card-header">About {{site.author}}</div>
-          <div class="card-body">
-            <p class="author_bio">{{ site.author_bio }}</p>
-          </div>
-        </div>
-      </div>
+    {%- include author.html -%}
