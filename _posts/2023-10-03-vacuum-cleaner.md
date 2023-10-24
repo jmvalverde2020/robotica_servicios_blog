@@ -70,3 +70,11 @@ En un primer momento quise desarrollar una función con la que el robot se despl
 Por ello, decidí usar VFF para el movimiento del robot, ya que las celdas están muy cerca entre sí y hay bastante margen entre los obstáculos reales y las casillas marcadas como obstáculos, no ha sido necesario implementar el láser para que esquive obstáculos, por lo que el robot se mueve en línea recta a la celda de destino.
 
 ## Video demonstración
+
+Por fallos de la página, no se ha podido grabar un video con la ejecución completa. Sin embargo, aquí muestro tres videos, dos desde el principio y uno casi del final donde se muestra la ejecución.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/kJRonbKKaBYinsFFWknn" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/36NByDuPWzInESccguQE" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/2oibYRirr69YAA29yk79" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
