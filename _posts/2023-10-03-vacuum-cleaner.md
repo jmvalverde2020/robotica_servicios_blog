@@ -41,13 +41,13 @@ Para hacer esto usé un programa muy simple para mostrar en opencv el pixel que 
 
 Estos son los puntos elegidos:
 
-<img src="../../assets/img/posts/localized-vacuum-cleaner/Regresion-lineal-puntos.png" width="600" height="600">
+<img src="../../assets/img/posts/localized-vacuum-cleaner/Regresion-lineal-puntos.png" width="800" height="800">
 
 Usando una calculadora web de regresión lineal, obtenemos las siguientes rectas y sus ecuaciones:
 
-<img src="../../assets/img/posts/localized-vacuum-cleaner/Regresion-lineal-X.png" width="600" height="600">
+<img src="../../assets/img/posts/localized-vacuum-cleaner/Regresion-lineal-X.png" width="800" height="600">
 
-<img src="../../assets/img/posts/localized-vacuum-cleaner/Regresion-lineal-Y.png" width="600" height="600">
+<img src="../../assets/img/posts/localized-vacuum-cleaner/Regresion-lineal-Y.png" width="800" height="600">
 
 Usando estas ecuaciones podemos trasladar las coordenadas en gazebo al pixel correspondiente en el mapa, y, despejando, obtenemos la misma operación en sentido contrario.
 
