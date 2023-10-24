@@ -41,6 +41,7 @@ Para hacer esto usé un programa muy simple para mostrar en opencv el pixel que 
 
 Estos son los puntos elegidos:
 
+![Alt text](../assets/img/posts/localized-vacuum-cleaner/Regresion-lineal-puntos.png)
 ![Puntos seleccionados](/assets/img/posts/localized-vacuum-cleaner/Regresion-lineal-puntos.png)
 
 Usando una calculadora web de regresión lineal, obtenemos las siguientes rectas y sus ecuaciones:
