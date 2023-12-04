@@ -78,7 +78,7 @@ En el caso en el que nos acercemos demasiado al coche de detrás, giramos en sen
 Todas estas fases han sido medidas en tiempo con anterioridad para calcular el tiempo ideal de cada una y poder usarlo como referencia en caso de no poder usar el láser.
 
 
-<img src="../../assets/img/posts/localized-vacuum-cleaner/Retroceso.png" width="800" height="800">
+<img src="../../assets/img/posts/autoparking/Retroceso.png" width="800" height="800">
 
 
 ## Principales Problemas :
