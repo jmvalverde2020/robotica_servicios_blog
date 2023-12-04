@@ -41,11 +41,15 @@ Es importante detectar los huecos suficientemente grandes como para que entre el
 
 Para esta tarea hacemos uso del láser, comprobando que no se detecten obstáculos a la derecha del coche con ninguno de los tres láseres disponibles, esto nos dice que el hueco es lo sufientemente grande para que quepa nuestro vehículo.
 
+<img src="../../assets/img/posts/autoparking/Deteccion.png" width="800" height="800">
+
 ### Preparación :
 
 Para preparar el coche para la maniobra de aparcar, es necesario adelantarlo más o menos el tamaño del propio coche o un poco más, teniendo en cuenta que los coches son de tamaño similar, se comprueba cuando el coche está un poco adelantado al de enfrente, usando los láseres.
 
 En caso de que el coche de delante sea demasiado largo, o no haya, se tomará como referencia un tiempo ideal calculado previamente. Este tiempo es suficiente para aparcar correctamente.
+
+<img src="../../assets/img/posts/autoparking/Preparacion.png" width="800" height="800">
 
 ### Aparcamiento :
 
@@ -58,8 +62,12 @@ Hay muchas formas y métodos para aparcar un coche. La elegida aquí consta de 3
 #### Giro
 El giro se refiere a girar el coche marcha atrás hasta que el culo del coche quede libre, es decir, que podamos circular marcha atrás sin chocar con el coche que tenemos detrás.
 
+<img src="../../assets/img/posts/autoparking/Giro.png" width="800" height="800">
+
+
 #### Retroceso
 El siguiente paso es retroceder hasta que el morro de nuestro coche pueda entrar sin chocar con el coche de delante, para esto usamos las medidas del laser delantero como referencia.
+
 
 #### Alineación
 Para alinear el coche giramos, aún retrocediendo, para meter el morro en el aparcamiento.
@@ -68,6 +76,10 @@ En el caso en el que nos acercemos demasiado al coche de detrás, giramos en sen
 
 \
 Todas estas fases han sido medidas en tiempo con anterioridad para calcular el tiempo ideal de cada una y poder usarlo como referencia en caso de no poder usar el láser.
+
+
+<img src="../../assets/img/posts/localized-vacuum-cleaner/Retroceso.png" width="800" height="800">
+
 
 ## Principales Problemas :
 
