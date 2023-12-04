@@ -71,21 +71,34 @@ Todas estas fases han sido medidas en tiempo con anterioridad para calcular el t
 
 ## Principales Problemas :
 
+
 ### Regresión lineal y PID
+
 
 Este método de aproximación, si bien es el más exacto, es mucho más difícil de implementar que el usado aquí, por lo que al final no se ha llevado a cabo debido a su complejidad.
 
 ### Tiempos
 
+
 El cálculo de tiempos ha tenido que ser medido y redondeando tras varias pruebas ya que pueden influir varios factores que cambian el resultado de la maniobra, los elegidos han sido los que mejor resultado han obtenido.
+
 
 ## Videos de demonstración :
 
 ### Con coches a ambos lados
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/WBoHMCK5mJOk86X1chOQ" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+<video src="../../assets/img/posts/autoparking/1-Hueco.webm" controls="controls" style="max-width: 800px;">
+</video>
 
 ### Con solo un coche detrás
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/7BmmgjpfWsT9Ugl0jXPo" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+<video src="../../assets/img/posts/autoparking/Sin-coche-delante.webm" controls="controls" style="max-width: 800px;">
+</video>
 
 ### Sin coches en la calle
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://jumpshare.com/embed/uP2lmzZ5Jt74cpgveo22" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+<video src="../../assets/img/posts/autoparking/Sin-coches.webm" controls="controls" style="max-width: 800px;">
+</video>
