@@ -60,12 +60,6 @@ Los puntos elegidos son los siguientes:
 
 <img src="../../assets/img/posts/amazon-warehouse/Puntos_referencia.png" width="800" height="800">
 
-Con los cuales se han obtenido las siguientes rectas:
-
-<img src="../../assets/img/posts/amazon-warehouse/relacion_eje_x.png" width="800" height="800">
-
-<img src="../../assets/img/posts/amazon-warehouse/relacion_eje_y.png" width="800" height="800">
-
 ## Video de demonstración :
 
 
